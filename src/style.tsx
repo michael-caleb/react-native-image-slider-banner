@@ -10,7 +10,8 @@ export const styles = StyleSheet.create({
     previewImageContainerStyle: {
         width, 
         justifyContent:'center',
-        alignItems:'center'
+        alignItems:'center',
+        backgroundColor: 'black'
     },
     previewImageStyle: {
         width: width, 
